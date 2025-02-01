@@ -1,0 +1,11 @@
+sessionnumber,datetime,device,assessment,starttime,Stoptime,gamename,traildatafilelocation,devicesetupfile,assistmode,assistmodeparameter,gameparameter
+1,04-07-2024 17:05:39.660,R2,1,17:05:39.660,,CALIBRATION,..\Assets\Patient_Data\0\04-07-2024\calibration\calibration_04072024_170539.csv,null,null,null,null
+1,04-07-2024 17:06:01.581,R2,1,17:06:01.581,,CALIBRATION,..\Assets\Patient_Data\0\04-07-2024\calibration\calibration_04072024_170601.csv,null,null,null,null
+1,04-07-2024 17:06:13.307,R2,0,17:06:13.307,17:06:50.202,SPACESHOOTER,..\Assets\Patient_Data\0\04-07-2024\spaceshooter\space_04072024_170613.csv,null,null, null,null
+1,04-07-2024 17:07:20.033,R2,0,17:07:20.024,,TUK-TUK,..\Assets\Patient_Data\0\04-07-2024\flappy_Data\FlappyGameData_04072024_170712.csv,null,null, null,null
+1,04-07-2024 17:08:04.754,R2,0,17:08:04.754,17:09:13.988,PING-PONG,..\Assets\Patient_Data\0\04-07-2024\Pong_Data\Pong_04072024_170804.csv,null,null, null,null
+2,04-07-2024 17:10:02.183,R2,0,17:10:02.177,,TUK-TUK,..\Assets\Patient_Data\0\04-07-2024\flappy_Data\FlappyGameData_04072024_171000.csv,null,null, null,null
+2,04-07-2024 17:10:13.287,R2,1,17:10:13.287,,CALIBRATION,..\Assets\Patient_Data\0\04-07-2024\calibration\calibration_04072024_171013.csv,null,null,null,null
+2,04-07-2024 17:10:20.252,R2,1,17:10:20.252,,CALIBRATION,..\Assets\Patient_Data\0\04-07-2024\calibration\calibration_04072024_171020.csv,null,null,null,null
+2,04-07-2024 17:10:22.907,R2,1,17:10:22.907,,CALIBRATION,..\Assets\Patient_Data\0\04-07-2024\calibration\calibration_04072024_171022.csv,null,null,null,null
+2,04-07-2024 17:10:39.016,R2,0,17:10:39.013,,TUK-TUK,..\Assets\Patient_Data\0\04-07-2024\flappy_Data\FlappyGameData_04072024_171035.csv,null,null, null,null

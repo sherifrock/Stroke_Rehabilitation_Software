@@ -1,0 +1,4 @@
+sessionnumber,datetime,device,assessment,starttime,Stoptime,gamename,traildatafilelocation,devicesetupfile,assistmode,assistmodeparameter,gameparameter
+1,25-06-2024 10:40:36.584,R2,1,10:40:36.584,,CALIBRATION,..\Assets\Patient_Data\123456P\25-06-2024\calibration\calibration_25062024_104036.csv,null,null,null,null
+1,25-06-2024 10:42:24.043,R2,0,10:42:24.043,10:42:29 AM,SPACESHOOTER,..\Assets\Patient_Data\123456P\25-06-2024\spaceshooter\space_25062024_104224.csv,null,null, null,null
+1,25-06-2024 10:42:37.312,R2,0,10:42:37 AM,10:42:37.312,TUK-TUK,

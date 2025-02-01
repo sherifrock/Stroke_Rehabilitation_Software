@@ -1,0 +1,5 @@
+sessionnumber,datetime,device,assessment,starttime,Stoptime,gamename,traildatafilelocation,devicesetupfile,assistmode,assistmodeparameter,gameparameter
+2,10-07-2024 10:00:02.345,R2,0,10:00:02.344,10:00:10.015,SPACESHOOTER,..\Assets\Patient_Data\22\10-07-2024\spaceshooter\space_10072024_100002.csv,null,null, null,null
+2,10-07-2024 10:00:15.649,R2,0,10:00:15.643,10:00:15.628,TUK-TUK,..\Assets\Patient_Data\22\10-07-2024\flappy_Data\FlappyGameData_10072024_100013.csv,null,null, null,null
+2,10-07-2024 10:00:35.352,R2,0,10:00:35.352,10:00:42.915,PING-PONG,..\Assets\Patient_Data\22\10-07-2024\Pong_Data\Pong_10072024_100035.csv,null,null, null,null
+2,10-07-2024 10:00:48.125,R2,1,10:00:48.125,10:00:57.043,CALIBRATION,..\Assets\Patient_Data\22\10-07-2024\calibration\calibration_10072024_100048.csv,null,null,null,null
